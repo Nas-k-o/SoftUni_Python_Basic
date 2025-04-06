@@ -11,7 +11,7 @@ def Execute():
     print("8 - PetShop")
     print("9 - YardGreening")
     print("0 - Exit")
-    choice = input("Select a function": )
+    choice = input("Select a function: " )
     if(choice == 1):
         HelloSoftUni()
     elif(choice == 2):
